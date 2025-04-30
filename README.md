@@ -4,7 +4,7 @@
 
 | Link | Description |
 | --- | --- |
-| <ins>[Splunk Home Lab](https://github.com/shaydan12/SOC-Analyst-Home-Lab)</ins> | Home lab utilizing Splunk SIEM |
+| <ins>[Splunk Home Lab](https://github.com/shaydan12/SOC-Analyst-Home-Lab)</ins> | This project documents my journey through MyDFIR's 30-Day SOC Analyst Challenge, where I gained hands-on experience in setting up and monitoring a Security Operations Center (SOC) environment using Elastic Security. |
 
 ## Certifications
 
