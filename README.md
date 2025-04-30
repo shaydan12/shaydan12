@@ -12,7 +12,6 @@
 
 ### CompTIA Security+
 
-&nbsp;
 
 ### Google Cybersecurity Certificate
 
