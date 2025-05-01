@@ -1,6 +1,8 @@
-## Projects
+# 👋 Hello, I'm Seyi
 
-&nbsp;
+I’m a passionate cybersecurity enthusiast with an interest in both offensive and defensive security. I have knowledge of security tools such as SIEM and IDS/IPS, as well as a foundation in programming and scripting languages including Python, Go, and C#. Continuously learning and staying up-to-date with the latest in security trends, tools, and best practices.
+
+## 💡Projects
 
 | **Link** | **Description** |
 | --- | --- |
@@ -10,10 +12,13 @@
 | [**Splunk Projects**](https://github.com/shaydan12/Splunk_Projects) | Writeups for Splunk projects from platforms including TryHackMe |
 | [**Shellcode Injection (C++)**](https://github.com/shaydan12/ShellcodeInjection) | A project showcasing the malware technique of shellcode injection into a running process on Windows. |
 
-## Certifications
+## 📚 Certifications
 
 - ### CompTIA Security+
-
+    
 - ### Google Cybersecurity Certificate
+    
+
+&nbsp;
 
 &nbsp;
